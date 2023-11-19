@@ -1,7 +1,7 @@
 using ControleDeContatos.Data;
 using ControleDeContatos.Repositorio;
 using Microsoft.EntityFrameworkCore;
-using static ControleDeContatos.Repositorio.ContatoRepositorioM;
+using static ControleDeContatos.Repositorio.ContatoRepositorio;
 
 namespace ControleDeContatos
 {
